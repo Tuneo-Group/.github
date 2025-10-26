@@ -40,5 +40,5 @@ Contribute, share ideas, or just vibe with us on **Discord**.
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by the <a href="https://github.com/tuneo">Tuneo Organization</a></sub>
+  <sub>Built with ❤️ by the <a href="https://github.com/Tuneo-Group">Tuneo Organization</a></sub>
 </p>
